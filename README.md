@@ -22,13 +22,16 @@ My english is not good im a german guy so sorry for this  ;)
          <you dont need all these packets but maybe u will compile core later by yourself then you need all>
 
 -#Step 3 Create Ubuntu user name it capsule < sudo adduser capsule > type and retype youre password 
-         It is important that the user is called capsule because of the paths that are defined in the repack
+         
+         <It is important that the user is called capsule because of the paths that are defined in the repack>
          
 
 -#Step 4 Setup MySQL 
-         MySQL server is needed for World of Warcraft databases (char account world)
+         
+         <MySQL server is needed for World of Warcraft databases (char account world)>
 
 -#Step 5 ***Optional*** Install and setup webserver 
-         Webserver is needed for account creation for ingame accounts
+        
+         <Webserver is needed for account creation for ingame accounts>
          
 
