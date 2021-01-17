@@ -37,6 +37,10 @@ My english is not good im a german guy so sorry for this  ;)
 ***Step 4*** Setup MySQL 
          
          <MySQL server is needed for World of Warcraft databases (char account world)>
+         
+         Run commands
+         
+         sudo mysql_secure_installation   <follow instructions>
 
 ***Step 5*** *Optional* Install and setup webserver 
         
