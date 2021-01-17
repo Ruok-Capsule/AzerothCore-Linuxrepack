@@ -24,6 +24,9 @@ My english is not good im a german guy so sorry for this  ;)
 ***-#Step 3 Create Ubuntu user name it capsule < sudo adduser capsule > type and retype youre password 
          
          <It is important that the user is called capsule because of the paths that are defined in the repack>
+         <files have to be placed in /home/capsule/>
+        
+         Or if you use git cloen then go in directory /home/capsule and git pull MY ADRESS FOLLOWS
          
 
 ***-#Step 4 Setup MySQL 
