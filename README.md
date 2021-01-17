@@ -41,6 +41,10 @@ My english is not good im a german guy so sorry for this  ;)
          Run commands
          
          sudo mysql_secure_installation   <follow instructions>
+         sudo mysql
+         ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';    <edit 'password' to 'YOURPASSWORD'>
+         FLUSH PRIVILEGES;
+         exit
 
 ***Step 5*** *Optional* Install and setup webserver 
         
