@@ -27,7 +27,7 @@ My english is not good im a german guy so sorry for this  ;)
          <It is important that the user is called capsule because of the paths that are defined in the repack>
          <files have to be placed in /home/capsule/>
         
-         Or if you use git clone then go in directory /home/capsule and git clone MY ADRESS FOLLOWS
+         Or if you use git clone then go in directory /home/capsule and git clone https://github.com/Ruok-Capsule/AzerothCore-Linuxrepack.git
          
 
 ***-#Step 4 Setup MySQL 
