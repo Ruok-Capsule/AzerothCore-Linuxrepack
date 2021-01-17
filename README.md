@@ -33,6 +33,8 @@ My english is not good im a german guy so sorry for this  ;)
          Or if you use git clone then go in directory /home/capsule 
          and git clone https://github.com/Ruok-Capsule/AzerothCore-Linuxrepack.git
          
+         make sure if your directory path is /root/capsule/ in directory capsule should be the folders bin end etc 
+         
 
 ***Step 4*** Setup MySQL 
          
