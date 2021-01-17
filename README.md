@@ -11,11 +11,12 @@ and also i will update this pack and build
 My english is not good im a german guy so sorry for this  ;)
 
 # Capsule tutorial
+# Installation
 
-***-#Step 1 you will need Ubuntu 20.04
+-#***Step 1 you will need Ubuntu 20.04
          <placeholder>
 
-***-#Step 2 install these packets 
+-#***Step 2 install these packets 
          sudo apt-get update && sudo apt-get install git cmake make gcc g++ clang libmysqlclient-dev libssl-dev libbz2-dev libreadline-dev              
          libncurses-dev mysql-server libace-6.* libace-dev      
         
@@ -36,5 +37,7 @@ My english is not good im a german guy so sorry for this  ;)
 ***-#Step 5 *Optional* Install and setup webserver 
         
          <Webserver is needed for account creation for ingame accounts>
-         
+        
+        
+# Start         
 
