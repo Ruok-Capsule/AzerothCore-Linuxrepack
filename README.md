@@ -13,17 +13,17 @@ My english is not good im a german guy so sorry for this  ;)
 # Capsule tutorial
 # Installation
 
--#***Step 1 you will need Ubuntu 20.04
+***Step 1 you will need Ubuntu 20.04
          <placeholder>
 
--#***Step 2 install these packets 
+***Step 2 install these packets 
          sudo apt-get update && sudo apt-get install git cmake make gcc g++ clang libmysqlclient-dev libssl-dev libbz2-dev libreadline-dev              
          libncurses-dev mysql-server libace-6.* libace-dev      
         
          <you dont need all these packets 
          but maybe u will compile core later by yourself then you need all>
 
-***-#Step 3 Create Ubuntu user name it capsule < sudo adduser capsule > type and retype youre password 
+***Step 3 Create Ubuntu user name it capsule < sudo adduser capsule > type and retype youre password 
          
          <It is important that the user is called capsule 
          because of the paths that are defined in the repack>
@@ -33,11 +33,11 @@ My english is not good im a german guy so sorry for this  ;)
          and git clone https://github.com/Ruok-Capsule/AzerothCore-Linuxrepack.git
          
 
-***-#Step 4 Setup MySQL 
+***Step 4 Setup MySQL 
          
          <MySQL server is needed for World of Warcraft databases (char account world)>
 
-***-#Step 5 *Optional* Install and setup webserver 
+***Step 5 *Optional* Install and setup webserver 
         
          <Webserver is needed for account creation for ingame accounts>
         
