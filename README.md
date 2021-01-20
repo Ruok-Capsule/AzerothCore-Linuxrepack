@@ -1,3 +1,6 @@
+# DONT USE THIS TUTORIAL NOW , I'M NOT DONE WITH THIS . I WILL INFORM YOU  (20.01.21) GREETZ RUOK
+
+
 # AzerothCore-Linuxrepack
 Ubuntu 20.04 repack WoW 3.3.5
 
